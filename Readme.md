@@ -16,6 +16,6 @@ npm install
 
 Create config/dev.env file and define - 
 PORT,
-SENDGRID_API_KEY
-MONGODB_URL
-JWT_SECRET
+SENDGRID_API_KEY,
+MONGODB_URL,
+JWT_SECRET,
